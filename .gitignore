@@ -5,7 +5,6 @@ src/.cache
 src/logo.png
 
 **/._*
-Manifest.toml
 /build
 
 \.DS_Store
